@@ -1,0 +1,18 @@
+clear 
+echo "\e[42m\t\t\t\t Kali Updating\e[0m" 
+sudo apt update 
+sleep 2 
+echo "\e[44m\t\t\t\t Kali upgrading\e[0m" 
+sleep 1 
+sudo apt upgrade -y 
+echo "\e[41m\t\t\t\t Kali Distro upgrade\e[0m" 
+sleep 1 
+sudo apt dist-upgrade 
+echo "\e[43m\t\t\t\t Kali full upgrade\e[0m" 
+sleep 1 
+sudo apt full-upgrade -y 
+echo "\e[45m\t\t\t\t Kali autoclean\e[0m" 
+sleep 1 
+sudo apt autoclean -y 
+echo "\e[46m\t\t\t\t AutoRemoving\e[0m" 
+sleep 1 && sudo apt autoremove -y
