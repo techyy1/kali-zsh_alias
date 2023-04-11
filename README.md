@@ -9,3 +9,5 @@ in bash to be used in the .zsh file as alias
 all you have to type is "upgrate", a combination
 of update and upgrade.
 
+##PLACE CODE IN THE LINE SHOWN BELOW
+![Screenshot from 2023-04-10 21-24-52](https://user-images.githubusercontent.com/12278486/231031925-6cd04824-8a77-4745-b005-2b07392636f0.png)
